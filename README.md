@@ -2,25 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>なごみんのポートフォリオ</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      background-color: #eafde3;
-      color: #333;
-      padding: 30px;
-    }
-    h1, h2 {
-      color: #228B22;
-    }
-    .project {
-      border: 1px solid #ccc;
-      background: #fff;
-      padding: 15px;
-      margin-bottom: 20px;
-      border-radius: 8px;
-    }
-  </style>
+  
 </head>
 <body>
 
