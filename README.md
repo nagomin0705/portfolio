@@ -9,5 +9,5 @@ Pythonで生活をちょっと便利にするアプリを開発しています�
 
 それぞれのアプリはHTMLページやコードとして公開中です。詳しくは下記リンクをご覧ください👇
 
-- 🔗 [三年日記の紹介ページ](index.html)
+- 🔗 [三年日記の紹介ページ](https://nagomin0705.github.io/portfolio/diary.html))
 - 🔗 [習慣チェッカーの紹介ページ](https://nagomin0705.github.io/portfolio/habit.html)
